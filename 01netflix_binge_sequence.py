@@ -15,4 +15,4 @@ total_days = total_hours / 24
 # Output
 print(f"\nTo binge-watch {series_name} you need:")
 print(f"{total_hours:.1f} hours")
-print(f"That's {total_days:.1f} full days of your life!")
+print(f"That's {total_days:.1f} full days of your life!")     blue StopAsyncIteration
